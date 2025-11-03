@@ -16,11 +16,11 @@ Poke-ControllerのModified版(or Extension版)
   |-SerialController/
   |-Template/
     |-ZA/
-      |-AZFloette/     ・・・画像ファイルフォルダ
+      |-AZFloetteA0/     ・・・画像ファイルフォルダ
   |-Commands/
     |-PythonCommands/
       |-ImageProcessingOnly/
-        |-AZFloette.py ・・・プログラム本体
+        |-AZFloetteA0.py ・・・プログラム本体
 ```
 - 手持ちを一体にしておくこと
 - メインミッション39のAZフラエッテ受け取り直前までシナリオを進めておくこと
