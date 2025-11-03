@@ -2,7 +2,7 @@
 
 ## 概要
 Poke-Controllerを使って、Pokemon Legend Z-AにてAZフラエッテをA0厳選するプログラムです。  
-Poke-Controller内でDiscord通知設定を行なっていれば、厳選完了時にDiscord通知します。
+Poke-Controller内でDiscord設定を行なっていれば、厳選完了時にDiscordで通知します。
 
 ## 動作環境
 本プログラムは2025/11/3時点で最新のPoke-ControllerのModified版、もしくはExtension版で動作します。
