@@ -26,5 +26,10 @@ Poke-ControllerのModified版(or Extension版)
       |-ImageProcessingOnly/
         |-AZFloette.py ・・・プログラム本体
 ```
+【使用実績】
+A0(実数値88)のAZフラエッテの厳選に成功しました。
+
+
+
 
 
