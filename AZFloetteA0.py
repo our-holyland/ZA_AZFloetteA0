@@ -2,7 +2,7 @@ from Commands.PythonCommandBase import ImageProcPythonCommand
 from Commands.Keys import Button, Hat, Direction, Stick
 import cv2
 
-class AZFloette(ImageProcPythonCommand):
+class AZFloetteA0(ImageProcPythonCommand):
     NAME = 'ZA_AZフラエッテA0厳選_ver1.01'
 
     def __init__(self,cam,gui=None):
