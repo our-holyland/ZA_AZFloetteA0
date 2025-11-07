@@ -13,7 +13,7 @@ Poke-Controller内でDiscord設定を行なっていれば、厳選完了時にD
 - 最新の各ファイルとフォルダを指定の場所に配置すること
 ```
 Poke-ControllerのModified版(or Extension版)
-  |-SerialController/
+|-SerialController/
   |-Template/
     |-ZA/
       |-AZFloetteA0/     ・・・画像ファイルフォルダ
